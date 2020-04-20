@@ -12,6 +12,12 @@ function App() {
     })
   }, [])
 
+  useEffect(() => {
+    api.get('/repositories').then(response => {
+      setRepositories(response.data)
+    })
+  }, [repositories])
+
   async function handleAddRepository() {
     const response = await api.post('/repositories', {
       title: `New Repository ${Date.now()}`,
@@ -24,7 +30,10 @@ function App() {
   }
 
   async function handleRemoveRepository(id) {
-    // TODO
+    await api.delete(`/repositories/${id}`)
+
+    setRepositories([...repositories])
+
   }
 
   return (
