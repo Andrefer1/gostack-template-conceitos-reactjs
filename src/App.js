@@ -10,18 +10,12 @@ function App() {
     api.get('/repositories').then(response => {
       setRepositories(response.data)
     })
-  }, [])
-
-  useEffect(() => {
-    api.get('/repositories').then(response => {
-      setRepositories(response.data)
-    })
   }, [repositories])
 
   async function handleAddRepository() {
     const response = await api.post('/repositories', {
       title: `New Repository ${Date.now()}`,
-      url: "https://github.com/Rocketseat/umbriel",
+      url: "https://github.com/josepholiveira",
       techs: "js, react",
     })
 
