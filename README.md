@@ -68,7 +68,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/Andrefer1/gostack-conceitos-reactjs
 
 # Go into the repository
-$ cd react-rocketshoes
+$ cd gostack-conceitos-reactjs
 
 # Install dependencies
 $ yarn install
@@ -76,9 +76,6 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-rocketshoes/blob/master/LICENSE) for more information.
 
 ---
 
