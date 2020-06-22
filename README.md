@@ -31,8 +31,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#information_source-how-to-use">How To Use</a>
 </p>
 
 <!-- ![App Screenshot](https://res.cloudinary.com/andrefer/image/upload/v1592783066/Bootcamp/conceitos-dev/ReactJS/README/Template_exurt9.png) -->
