@@ -65,7 +65,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Andrefer1/gostack-conceitos-reactjs
+$ git clone https://github.com/Andrefer1/gostack-conceitos-reactjs.git
 
 # Go into the repository
 $ cd gostack-conceitos-reactjs
