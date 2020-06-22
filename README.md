@@ -38,13 +38,13 @@
 <!-- ![App Screenshot](https://res.cloudinary.com/andrefer/image/upload/v1592783066/Bootcamp/conceitos-dev/ReactJS/README/Template_exurt9.png) -->
 
 <h2 align="center">
-    <img alt="React RocketShoes" src="https://res.cloudinary.com/andrefer/image/upload/v1592783066/Bootcamp/conceitos-dev/ReactJS/README/Template_exurt9.png"/>
+    <img alt="React RocketShoes" src="https://res.cloudinary.com/andrefer/image/upload/v1592789292/Bootcamp/conceitos-dev/ReactJS/README/Template_ctkmja.png"/>
     <br>
     Conceitos ReactJS
 </h2>
 
 <p align="center">
-  <a href="https://rocketshoes.netlify.com/" target="_blank">
+  <a href="https://conceitos-reactjs.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
