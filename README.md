@@ -54,14 +54,9 @@
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
--  [React Router v4](https://github.com/ReactTraining/react-router)
 -  [NodeJS](https://nodejs.org/en/)
 -  [Axios](https://github.com/axios/axios)
 -  [Yarn](https://yarnpkg.com/)
--  [Immer](https://github.com/immerjs/immer)
--  [styled-components](https://www.styled-components.com/)
--  [React-Icons](https://react-icons.netlify.com/)
--  [json-server](https://github.com/typicode/json-server)
 -  [VS Code][vc]
 
 ## :information_source: How To Use
